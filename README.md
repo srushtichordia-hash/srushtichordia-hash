@@ -26,3 +26,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=srushtichordia-hash&show_icons=true&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srushtichordia-hash&layout=compact&theme=tokyonight)
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/srushtichordia-hash/srushtichordia-hash/output/github-contribution-grid-snake.svg)
