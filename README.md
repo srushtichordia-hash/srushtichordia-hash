@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Srushti Chordiya</h1>
 <h3 align="center">Aspiring Data Scientist | B.Tech Student | Python, SQL, Machine Learning & Data Analytics</h3>
 
-- 🔭 I’m currently working on **Cancer Cell Detection using Machine Learning**
-
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, and Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/srushtichordia-hash](https://github.com/srushtichordia-hash)
 
 - 💬 Ask me about **Data Science, Machine Learning, Python, SQL, Data Analytics, and Exploratory Data Analysis (EDA)**
 
